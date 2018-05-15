@@ -1,0 +1,138 @@
+/*New general styles and additions to existing bootstrap*/
+
+.bg-black {
+  background: black;
+}
+
+@media screen and (max-width: 768px) {
+  .break-white {
+    white-space: normal;
+  }
+}
+
+.dropdown-menu a:hover {
+  text-decoration: underline !important;
+}
+
+.card{
+    margin-bottom: 20px;
+}
+/*Local elements style*/
+
+a {
+  color: gray;
+}
+
+a:hover {
+  color: lightgray;
+}
+
+#logo {
+  background-image: url(../images/logo-arriba.png);
+  height: 40px;
+  min-width: 100px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  transition: .5s;
+}
+
+#logo:hover {
+  background-image: url(../images/logo-iamsa.png);
+  height: 80px;
+  margin: 5px 0
+}
+
+#inicio{
+    padding: 50px 0;
+}
+
+.cards-nosotros{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 50px 0;
+}
+
+.servicio-header{
+  cursor: pointer;
+}
+
+.servicio-titulo{
+  color: black;
+}
+
+.servicio:hover .servicio-header{
+  background: #00B643;
+}
+.servicio:hover .servicio-titulo{
+  color: white;
+}
+
+.sub-servicio-header{
+  cursor: pointer;
+  background: #CAF2D9;
+}
+
+.sub-servicio-titulo{
+  color: #00B643;
+}
+
+.sub-servicio:hover .sub-servicio-header{
+  
+}
+/*.sub-servicio:hover .sub-servicio-titulo{
+  color: white;
+}*/
+
+
+/*setting animation */
+
+.animation {
+  height: 100px;
+  position: relative;
+}
+
+.animation .arboles {
+  background-image: url(../images/fondo-movil-arboles.png);
+}
+
+.animation .edificios {
+  background-image: url(../images/fondo-movil-edificios.png);
+}
+
+.animation .fondoMovil {
+  background-repeat: repeat-x;
+  background-position: left;
+  position: absolute;
+  animation-name: move-left-to-right;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-duration: 15s;
+  width: 100%;
+  height: 100px;
+  bottom: 0;
+  left: 0;
+  z-index: 2;
+}
+
+@keyframes move-left-to-right {
+  from {
+    background-position: left
+  }
+  to {
+    background-position: right
+  }
+}
+
+.animation .objetoFijo {
+  background-image: url(../images/ciclista.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  bottom: 22px;
+  left: calc(50% - 50px);
+  height: 50px;
+  width: 50px;
+  z-index: 3
+}

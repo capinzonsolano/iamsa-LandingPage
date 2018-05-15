@@ -1,0 +1,118 @@
+{
+  "servicios": [
+  {
+    "id": 1,
+    "nombre": "Ingeniería y Proyectos",
+    "servicio": [
+    {
+      "id": 1,
+      "nombre": "Gestión Integral de Residuos Sólidos",
+      "image": "",
+      "texto": "En IAMSA SOLUTIONS formulamos planes de gestión integral de residuos sólidos (PGIRS) para el ámbito local y/o regional según sea el caso, en el marco legal de la gestión de residuos sólidos, dentro del cual se incluirán: - Organización para la formulación del PGIRS - Línea base - Programas y proyectos para la implementación del PGIRS - Normativas operativas de planeación de evaluación, seguimiento y monitoreo de la gestión de residuos sólidos."
+    },
+    {
+      "id": 2,
+      "nombre": "Gestión Integral de Residuos Peligrosos",
+      "image": "",
+      "texto": "En IAMSA SOLUTIONS brindamos asesoría en la implementación y formulación de planes de gestión integral de residuos peligrosos (RESPEL), dentro del cual se incluirá: - Identificación de Fuentes - Clasificación según peligrosidad de los residuos - Cuantificación de la generación - Alternativas de prevención y minimización de RESPEL Y RAEE - Manejo Interno de los residuos - Manejo Externo de los residuos - Ejecución del Plan de Gestión - Capacitación al personal involucrado en el PGIRESPEL"
+    },
+    {
+      "id": 3,
+      "nombre": "Estudios de Impacto Ambiental",
+      "image": "",
+      "texto": "En IAMSA SOLUTIONS realizamos estudios de impacto ambiental, en donde evaluamos las necesidades y los requerimientos de cada proyecto, desarrollando y aplicando soluciones integrales, que permiten mejorar la competitividad de nuestros clientes, y el desarrollo sostenible y sustentable de sus proyectos. Incluiremos: - Descripción general del proyecto (caracterización del área de influencia) - Exigencias previsibles en el tiempo - Matriz de impacto ambiental  - Diagnóstico Ambiental de alternativas  - Plan de manejo ambiental"
+    },
+    {
+      "id": 4,
+      "nombre": "Modelamiento Ambiental",
+      "image": "",
+      "texto": "Con el fin de conocer los escenarios, impactos y posibles modificaciones futuras producidas por la ejecución de proyectos, IAMSA SOLUTIONS diseña modelos ambientales mediante el uso de tecnología de punta, con los cuales se constituye un sistema de herramientas, lo cual permite que cada uno de los proyectos de nuestros clientes, sean ejecutados bajo los mejores estándares de calidad ambiental."
+    },
+    {
+      "id": 5,
+      "nombre": "Sistemas de Gestión Ambiental",
+      "image": "",
+      "texto": "En todas las organizaciones se presentan procesos productivos los cuales pueden ser optimizados bien sea en función del tiempo o de insumos, es decir volviendo más eficiente la producción, con esto, generando más ingresos a través del tiempo, y acoplándose a un desarrollo sostenible. - Por lo anterior, en IAMSA SOLUTIONS Diseñamos estrategias que sistematizan las actividades antrópicas que afectan al ambiente, a través de la aplicación de sistemas que integren: - ISO 9001 - ISO 14001 - OHSAS 18001 - Diseño de planes de Producción más limpia. (PML) - Hospitales verdes - Plan Institucional de Gestión Ambiental PIGA"
+    },
+    {
+      "id": 6,
+      "nombre": "Saneamiento Básico",
+      "image": "",
+      "texto": "En IAMSA SOLUTIONS brindamos toda la información pertinente al manejo de aspectos externos o internos, relacionados con la/s situación/es que se identifique/n como amenaza/s a la salud humana. En ese orden de ideas, nuestra compañía ofrece a nuestros clientes programas en: - Manipulación de alimentos - Manejo y control de vectores - Sistemas de control de Vertimientos - Sistemas de control de Aguas residuales"
+    },
+    {
+      "id": 7,
+      "nombre": "Planes de Saneamiento y Manejo de Vertimientos",
+      "image": "",
+      "texto": ""
+    }]
+  },
+  {
+    "id": 2,
+    "nombre": "Desarrollo Sostenible e Innovación",
+    "servicio": [
+    {
+      "id": 1,
+      "nombre": "Educación para el Desarrollo Sostenible",
+      "image": "",
+      "texto": ""
+    },
+    {
+      "id": 2,
+      "nombre": "Innovación",
+      "image": "",
+      "texto": ""
+    }]
+  },
+  {
+    "id": 3,
+    "nombre": "Seguridad Industrial y Prevención de Riesgos Laborales",
+    "servicio": [
+    {
+      "id": 1,
+      "nombre": "Sistemas de Gestión de Seguridad y Salud en el Trabajo",
+      "image": "",
+      "texto": "En IAMSA SOLUTIONS nos preocupa el bienestar de nuestros clientes, por eso brindamos soluciones eficientes enfocadas en optimizar las condiciones laborales, y minimizar los riesgos en las instalaciones  de las compañías.  Algunos de los parámetros que IAMSA evaluará son: - Iluminancia - Presión sonora - Ruido ocupacional - Estrés Térmico"
+    },
+    {
+      "id": 2,
+      "nombre": "Planes de Emergencia",
+      "image": "",
+      "texto": "En IAMSA SOLUTIONS diseñamos y brindamos todas las herramientas e información concerniente a la minimización tanto de la vulnerabilidad, como del riesgo, ante eventos de orden natural y/o antrópico.   Algunos de los elementos más relevantes que nuestro grupo de profesionales tiene en cuenta son: Planos, rutas de evacuación, conformación de brigadas, evaluación de riesgos, entre otros."
+    }]
+  },
+  {
+    "id": 4,
+    "nombre": "Cumplimiento de la Normatividad Ambiental",
+    "servicio": [
+    {
+      "id": 1,
+      "nombre": "Normatividad Ambiental",
+      "image": "",
+      "texto": ""
+    },
+    {
+      "id": 2,
+      "nombre": "Informes de Cumplimiento Ambiental",
+      "image": "",
+      "texto": ""
+    }]
+  },
+  {
+    "id": 5,
+    "nombre": "Licitaciones y Auditorías Internas",
+    "servicio": [
+    {
+      "id": 1,
+      "nombre": "Licitaciones",
+      "image": "",
+      "texto": ""
+    },
+    {
+      "id": 2,
+      "nombre": "Auditorías Internas",
+      "image": "",
+      "texto": ""
+    }]
+  }]
+}
